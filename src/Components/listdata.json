@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "isComplete": true,
+    "content": "Buy Groceries"
+  }, {
+    "id": 2,
+    "isComplete": false,
+    "content": "Complete Assignments"
+  }, {
+    "id": 3,
+    "isComplete": true,
+    "content": "Pay Rent"
+  }, {
+    "id": 4,
+    "isComplete": false,
+    "content": "Meditate"
+  }, {
+    "id": 5,
+    "isComplete": false,
+    "content": "Clean the flat"
+  }, {
+    "id": 6,
+    "isComplete": true,
+    "content": "Read a book"
+  }]
